@@ -1,5 +1,5 @@
 # Project 1 - CS2250
-# Kenia Velasco 
+## Kenia Velasco 
 
 This is my personal website built with HTML ONLY. It includes sections such as a home, chilhood, and interests.
 
@@ -24,7 +24,7 @@ This is my personal website built with HTML ONLY. It includes sections such as a
 - C. Footer
 - D. Navigation
 - E. Section
-- F. Heading -- one of <h1>, <h2>, etc
+- F. Headings
 - G. Paragraph
 - H. Span
 - I. Anchor -- an external link (a link to some webpage on a different website)
